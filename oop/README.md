@@ -10,6 +10,14 @@
 - 다형성
 - 상속
 
+### SOLID
+- SRP (단일책임의 원칙: Single Responsibility Principle)
+- OCP (개방폐쇄의 원칙: Open Close Principle)
+- LSP (리스코브 치환의 원칙: The Liskov Substitution Principle)
+- ISP (인터페이스 분리의 원칙: Interface Segregation Principle)
+- DIP (의존성역전의 원칙: Dependency Inversion Principle)
+- http://www.nextree.co.kr/p6960/
+
 ### 디자인 원칙
 - 바뀌는 부분은 캡슐화한다.
 - 상속보다는 구성을 활용한다.
