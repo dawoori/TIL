@@ -7,7 +7,7 @@
 > **디자인은 예술이다**
 
 ### OOP
-- 추상화 (abstraction)
+- 추상화 (abstraction): 모델링
 - 캡슐화 (encapsulation)
 - 다형성 (polymorphism)
 - 상속 (inheritance)
