@@ -31,4 +31,4 @@
 || Creational | Structural | Behavioral |
 |---|---|---|---|
 | Class | <ul><li>Factory Method</li></ul> | <ul><li>Adapter(class)</li></ul> | <ul><li>Interpreter</li><li>Template Method</li></ul> |
-| Object | <ul><li>Abstract Factory</li><li>Builder</li><li>Prototype</li><li>Singleton</li></ul> | <ul><li>Adapter (object)</li><li>Bridge</li><li>Composite</li><li>Decorator</li><li>Facade</li><li>Flyweight</li><li>Proxy</li></ul> | <ul><li>Chain of Responsibility</li><li>Command</li><li>Iterator</li><li>Mediator</li><li>Memento</li><li>Observer</li><li>State</li><li>Visitor</li></ul>  |
+| Object | <ul><li>Abstract Factory</li><li>Builder</li><li>Prototype</li><li>Singleton</li></ul> | <ul><li>Adapter (object)</li><li>Bridge</li><li>Composite</li><li>Decorator</li><li>Facade</li><li>Flyweight</li><li>Proxy</li></ul> | <ul><li>Chain of Responsibility</li><li>Command</li><li>Iterator</li><li>Mediator</li><li>Memento</li><li>Observer</li><li>State</li><li>[Strategy](Strategy.md)</li><li>Visitor</li></ul>  |
