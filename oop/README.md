@@ -2,7 +2,7 @@
 
 > **나중에 어떻게 바뀔 것인지**에 대해 생각한 결과 -> 관리가 용이한 객체지향 시스템을 제작 -> SOLID 원칙 -> 디자인 원칙 -> 디자인 패턴 (?)
 
-> `디자인 패턴`이란 _나중에 어떻게 바뀔 것인지에 대한 생각_ 이라는 `인터페이스`의 `구현`
+> `디자인 패턴`이란 _유지보수에 용이하게 코딩하라_ 는 `인터페이스`의 `구현`
 
 > **디자인은 예술이다**
 
@@ -18,6 +18,7 @@
 - LSP (리스코브 치환의 원칙: The Liskov Substitution Principle)
 - ISP (인터페이스 분리의 원칙: Interface Segregation Principle)
 - DIP (의존성역전의 원칙: Dependency Inversion Principle)
+- 개인적인 생각: SOLID 원칙 중 OCP가 메인인듯?
 - http://www.nextree.co.kr/p6960/
 
 ### 디자인 원칙
