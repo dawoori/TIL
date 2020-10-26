@@ -26,9 +26,10 @@
 - 구현이 아닌 인터페이스에 맞춰서 프로그래밍한다.
 - 상속보다는 구성(composition)을 활용한다.
 - 클래스는 확장에 대해서는 열려 있어야 하지만 코드 변경에 대해서는 닫혀 있어야 한다.(OCP)
+- 서로 상호작용을 하는 객체 사이에는 가능하면 느슨하게 결합하는 디자인을 사용해야 한다.
 
 ## 디자인 패턴
 || Creational | Structural | Behavioral |
 |---|---|---|---|
 | Class | <ul><li>Factory Method</li></ul> | <ul><li>Adapter(class)</li></ul> | <ul><li>Interpreter</li><li>Template Method</li></ul> |
-| Object | <ul><li>Abstract Factory</li><li>Builder</li><li>Prototype</li><li>Singleton</li></ul> | <ul><li>Adapter (object)</li><li>Bridge</li><li>Composite</li><li>Decorator</li><li>Facade</li><li>Flyweight</li><li>Proxy</li></ul> | <ul><li>Chain of Responsibility</li><li>Command</li><li>Iterator</li><li>Mediator</li><li>Memento</li><li>Observer</li><li>State</li><li>[Strategy](Strategy.md)</li><li>Visitor</li></ul>  |
+| Object | <ul><li>Abstract Factory</li><li>Builder</li><li>Prototype</li><li>Singleton</li></ul> | <ul><li>Adapter (object)</li><li>Bridge</li><li>Composite</li><li>Decorator</li><li>Facade</li><li>Flyweight</li><li>Proxy</li></ul> | <ul><li>Chain of Responsibility</li><li>Command</li><li>Iterator</li><li>Mediator</li><li>Memento</li><li>[Observer](Observer.md)</li><li>State</li><li>[Strategy](Strategy.md)</li><li>Visitor</li></ul>  |
