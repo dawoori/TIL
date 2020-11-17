@@ -14,7 +14,7 @@
 
 ### SOLID
 - SRP (단일책임의 원칙: Single Responsibility Principle): 어떤 변화에 의해 클래스를 변경해야 하는 이유는 오직 하나뿐이어야 한다.
-- OCP (개방폐쇄의 원칙: Open Close Principle): 자신의 확장에는 열려 있고, 주변의 변화에 대해서는 닫혀 있어야 한다. 객체지향 원리의 대전제.
+- OCP (개방폐쇄의 원칙: Open Close Principle): 자신의 확장에는 열려 있고, 주변의 변화에 대해서는 닫혀 있어야 한다. _객체지향 원칙의 대전제_
 - LSP (리스코브 치환의 원칙: The Liskov Substitution Principle): 서브 타입은 언제나 자신의기반 타입(base type)으로 교체할 수 있어야 한다. 다형성 (polymorphism)
 - ISP (인터페이스 분리의 원칙: Interface Segregation Principle): 클라이어트는 자신이 사용하지 않는 메서드에 의존 관계를 맺으면 안 된다.
 - DIP (의존성역전의 원칙: Dependency Inversion Principle): 자신보다 변하기 쉬운 것에 의존하지 마라.
